@@ -1,7 +1,7 @@
 {
   "name": "pupusas2go",
   "version": "1.0.0",
-  "description": "simple ecommerce site",
+  "description": "",
   "author": "Enok Madrid",
   "private": true,
   "scripts": {
@@ -26,5 +26,6 @@
     "uuid": "^7.0.3",
     "vue-stripe-elements-plus": "^0.3.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": []
 }

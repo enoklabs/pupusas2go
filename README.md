@@ -1,6 +1,6 @@
 # pupusas2go
 
-> simple ecommerce site
+> simple food ecommerce site
 
 ## Build Setup
 

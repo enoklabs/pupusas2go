@@ -18,7 +18,7 @@
     "gql-query-builder": "^3.3.0",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "node-sass": "^4.13.1",
     "nuxt": "^2.0.0",
     "sass-loader": "^8.0.2",
